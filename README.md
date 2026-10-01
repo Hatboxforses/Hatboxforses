@@ -1,10 +1,10 @@
 ## A really stupid account for really stupid projects
 
 ### (Somewhat) Active:
-* [Arch-Update-Scripts](https://github.com/Hatboxforses/Arch-Update-Scripts)
+* <img src="./archlinux-logo-dark-scalable.svg" width="14" height="14">[Arch-Update-Scripts](https://github.com/Hatboxforses/Arch-Update-Scripts)
 * [Catppuccin Gimp Theme](https://github.com/Hatboxforses/Catppuccin-Gimp-Theme)
 * [retard-central.neocities](https://github.com/Hatboxforses/retard-central.neocities)
-    * [Peggle Saves](https://github.com/Hatboxforses/Peggle-Saves)
+    * <img src="./235cd581beffe1d5aed6a73763094045cd9d413f.png" width="14" height="14">[Peggle Saves](https://github.com/Hatboxforses/Peggle-Saves)
     * [catppuccin-macchiato-monaco-theme-demo](https://github.com/Hatboxforses/catppuccin-macchiato-monaco-theme-demo)
 
 ### Archived:
