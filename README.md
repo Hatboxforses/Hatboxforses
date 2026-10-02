@@ -1,5 +1,8 @@
 ## A really stupid account for really stupid projects
 
+[![Hatboxforses's GitHub stats](https://github-stats-extended.vercel.app/api?username=Hatboxforses&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=b7bdf8)](https://github.com/stats-organization/github-stats-extended)\
+Taking Turkey OFF The Menu
+
 ### (Somewhat) Active:
 * <img src="./archlinux.svg" width="14" height="14">[Arch-Update-Scripts](https://github.com/Hatboxforses/Arch-Update-Scripts)
 * <img src="./catppuccin.png" width="14" height="14">[Catppuccin Gimp Theme](https://github.com/Hatboxforses/Catppuccin-Gimp-Theme)
@@ -12,3 +15,5 @@
 * <img src="./gary.png" width="14" height="14">[Gary.py](https://github.com/Hatboxforses/Gary.py) (An old python app I made as a text adventure)
 * <img src="./nvim.png" width="14" height="14">[Minimal-ahh-neovim-config-💀](https://github.com/Hatboxforses/Minimal-ahh-neovim-config) (Just Bad Code™)
 * <img src="./reimu.png" width="14" height="14">[Code Studio App Lab Touhou Game](https://github.com/Hatboxforses/Code-Studio-App-Lab-Touhou-Game) (A project for AP Computer Science that I dedicated way too much time to)
+
+Note that all projects are human slop written & took way too much time for how bad they actually are
